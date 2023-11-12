@@ -27,6 +27,7 @@ description: Applications & Solutions with Signal K Support
 - [Aqua Map](http://www.globalaquamaps.com): Marine navigation app for iOS and Android with Signal K over WiFi capability.
 - [SignalK Monitor](https://www.youtube.com/watch?v=X8VbkD8WYV8): Intuitive and easy-to-use [Android](https://play.google.com/store/apps/details?id=com.belmille.signalkflutter) and [iPhone](https://apps.apple.com/fi/app/signalk-monitor/id1534189860) application to visualize SignalK data.
 - [PiCAN-M](http://skpang.co.uk/catalog/picanm-with-nmea-0183-and-nmea-2000-connection-3a-smps-p-1599.html) : Raspberry Pi hat with NMEA 2000 and NMEA 0183 connectivity with Signal K support.
+- [PostgSail](https://iot.openplotter.cloud/) : Effortlessly logs your voyages, automatically capturing your trips, moorages, dockings and anchorages with no additional need to stop/start anything. Built for sailors, motorboats and commercial uses. Send, monitor, alert, observe all numeric values & positions & status to a self-hosted or cloud instances of PostgSail (PostgreSQL, Grafana).
 
 
 The most straightforward way to add entries to this page is to
